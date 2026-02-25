@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Inter;
+}
+
+.header{
+  background-color:#F55A5A;
+}
+
+.nav{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.paragraphHeader{
+  color: #ffff;
+  font-size: 30px;
+  margin-left: 6px;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: -1.1px;
+}
+

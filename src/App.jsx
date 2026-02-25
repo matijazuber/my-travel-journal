@@ -1,7 +1,9 @@
+import Header from "./components/headerJournal"
+
 function App() {
   return(
     <>
-      <h1>Learn</h1>
+    <Header></Header>
     </>
   )
 }
