@@ -23,3 +23,63 @@ body{
   letter-spacing: -1.1px;
 }
 
+.mainDiv{
+  display: flex;
+  align-items: flex-start;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+.divJapan{
+  display: flex;
+  margin-left: 10px;
+  
+}
+
+.markerImg{
+  width: 10px;
+  margin-right: 5px;
+  margin-left: 3px;
+}
+
+.japanP{
+  letter-spacing: 1.7px;
+  font-size: 13px;
+}
+
+
+.viewDiv{
+  margin-left: 10px;
+  font-size: 13.5px;
+  text-decoration: underline;
+  color: #918E9B;
+  font-weight: 400;
+
+}
+
+.infoBlock {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start;
+}
+
+.topRow {
+  display: flex; 
+  gap: 6px;    
+}
+
+.fujiHeader{
+  font-weight: 700;
+  font-size: 25px;
+  margin-left: 15px;
+  line-height: 100%;
+}
+
+.description{
+  margin-left: 15px;
+  line-height: 150%;
+}
+
+.dateParagraph{
+  font-weight: 700;
+}
