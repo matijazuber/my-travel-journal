@@ -60,7 +60,7 @@ body{
 
 }
 
-a:visited {
+a,a:visited,a:active,a:hover {
   color: #918E9B;
 }
 
