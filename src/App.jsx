@@ -9,7 +9,7 @@ function App() {
             <Entry
               key={travel.id}
               {...travel} />
-        )
+          )
       })
 
   return(
